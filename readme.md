@@ -1,5 +1,9 @@
 # Team Act Tracker by App Script
 
+<p align="center">
+  <img width="502" alt="image" src="https://github.com/koolerkx/team-act-tracker-app-script/assets/20885563/ef4eddaa-91bb-47c0-b0c3-71d7a446cb20">
+</p>
+
 A app using google service aimed to help event to record point check in and check out action. In addition, calculate the point to do allow participant complete with others.
 
 ## Implemented Feature
